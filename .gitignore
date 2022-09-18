@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # geckodriver stuff
-.geckodriver.exe
-.geckodriver.log
+./geckodriver.exe
+./geckodriver.log
